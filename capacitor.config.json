@@ -1,0 +1,8 @@
+{
+  "appId": "com.officerk.player",
+  "appName": "Officer K",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
